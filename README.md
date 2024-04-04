@@ -1,5 +1,5 @@
-# Generative-AI-Bioinformatics-Biology
-This repo contains tutorials, large language model-based tools and approaches for applying generative AI to Bioinformatics and biology
+# Curated-List-of-Generative-AI-Bioinformatics
+This repo contains tutorials, large language model (LLM)-based tools and approaches for applying generative AI to Bioinformatics.
 
 
 
