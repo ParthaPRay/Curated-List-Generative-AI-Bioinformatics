@@ -6,11 +6,6 @@ This repo contains tutorials, large language model (LLM)-based tools and approac
 
 # Bioinformatics 
 
- [Centre of Bioinformatics Research and Technology (CBIRT)] (https://cbirt.net/)
- 
-
-
-
 * RiboNucleic Acid (RNA) Language Model:    https://github.com/lbcb-sci/RiNALMo,    https://sikic-lab.github.io/
 * Protein language models scaling laws:   https://github.com/OpenBioML/protein-lm-scaling
 * ProLLaMA:   https://github.com/PKU-YuanGroup/ProLLaMA  
@@ -141,6 +136,10 @@ This repo contains tutorials, large language model (LLM)-based tools and approac
 
 
 
+# Blogs
+
+* [Centre of Bioinformatics Research and Technology (CBIRT)] (https://cbirt.net/)
+ 
 
 
 
